@@ -1,6 +1,8 @@
 ### Hi there 👋
 full stack developer:Java y angular
 Biology
+
+![Alt text](0_ngAthWxOvKZHvsw9.jpg)
 <!--
 **ali2-2ali/ali2-2ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
