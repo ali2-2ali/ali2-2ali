@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+full stack developer:Java y angular
 <!--
 **ali2-2ali/ali2-2ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
